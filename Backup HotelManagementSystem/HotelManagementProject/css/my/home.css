@@ -1,0 +1,182 @@
+body
+{
+	background:#8080809e;
+}
+
+
+
+.footer
+{
+	color:white;
+	background:black;
+	height:auto;
+	padding-top:30px;
+	padding-left:30px;
+	opacity:0.8;
+	padding-bottom:30px;
+	
+}
+
+.footer h5
+{
+	text-shadow:1px 1px 1px red;
+	color:yellow;
+}
+.footer a ,.footer li
+{
+	color:white;
+	Padding-top:10%;
+}
+
+.footerImg
+{
+	background:url("footerbg.jpg");
+	background-size:99%;
+	opacity:0.6;	
+	
+}
+
+.contentInfo
+{
+	box-shadow:2px 3px 20px green;
+	text-shadow:2px 1px 1px red;
+	border:3px dotted lightgreen;
+	margin-top:3%;
+	color:white;
+	padding:10px;
+	text-decoration:none;
+	word-spacing:5px;
+	text-align:center;
+	margin-bottom:15px;
+	
+}
+.contentInfo p
+{
+	margin-top:1%;
+	text-shadow:none;
+	color:white;
+	text-align:left;
+	padding-left:10px;
+	text-decoration: underline;
+	
+}
+
+
+.a h4,.a p
+{
+	display:inline;
+}
+
+
+
+.left
+{
+	text-align:right;	
+	color:white;
+
+}
+.menuInfo a
+{
+	color:white;
+	padding:10px;
+	text-decoration:none;
+}
+
+
+.menuInfo
+{
+	background:#645f26c7;
+	height:auto;
+	padding:5px;
+	
+}
+
+
+.header
+{
+	color:white;
+	background:#334b83;
+	height:50px;
+}
+
+.header .a
+{
+	padding-left:20%;
+}
+
+.footerInfo
+{
+	background:#334b83;
+	height:auto;
+	padding:5px;
+	
+}
+
+.footerInfo a
+{
+	color:white;
+	padding:10px;
+	text-decoration:none;
+}
+
+
+
+
+
+
+
+.btnlogin{
+	background:red;
+	width:100%;
+	font-size:18px;
+	letter-spacing:5px;
+	font-family:times new roman;
+
+}
+
+.datetime
+{
+	width:40%;
+}
+.homeform
+{
+	margin-top:6%;
+	
+}
+.fhome
+{	
+		
+	color:#f0ff75cc;
+	text-shadow:2px 2px 4px red ;
+	text-align:center;
+	display:inline;
+	margin-top:50%;
+
+}
+
+.homeimgbg
+{
+	border:3px solid white;
+	box-shadow:2px 3px 25px red;
+	border-radius:30px;
+	margin-top:7%;
+	background : url("homebg.jpg")no-repeat center;
+	color:white;
+	height:auto;
+	background-size:100%;
+	opacity:0.8;
+}
+.content
+{
+background:lightgrey url("home.jpg") no-repeat ;
+background-size:100% 100%;
+height:auto;	
+opacity:0.85;
+}	
+
+.title
+{
+background:red;
+height:4px;
+}
+
